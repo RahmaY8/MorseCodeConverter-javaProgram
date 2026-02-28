@@ -18,6 +18,7 @@ Test your speed and Morse knowledge!
 You are shown a Morse code sequence and must type the correct alphabet letter.
 
 🏆 Rules
+
 🎯 You win when you reach 5 points
 
 ⏱ You must answer within 10 seconds
@@ -28,4 +29,4 @@ You are shown a Morse code sequence and must type the correct alphabet letter.
 
 🐢 Too slow → 0 points
 
-.... .- ...- .   ..-. ..- -. 😎
+.... .- ...- .    ..-. ..- -. 😎
